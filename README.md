@@ -1,2 +1,2 @@
-# SMC-modelling
-Modeling SMC in Mozambiqe 
+# Modelling SMC
+Modeling SMC in Mozambique 
